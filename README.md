@@ -1,7 +1,7 @@
 # Image Cropper
 
 **图像剪裁工具**
-代码基于[isat](https://github.com/yatengLG/ISAT_with_segment_anything)实现
+(代码基于[isat](https://github.com/yatengLG/ISAT_with_segment_anything)实现)
 ![demo](./assets/demo.png)
 
 
