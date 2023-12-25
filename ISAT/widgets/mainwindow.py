@@ -17,7 +17,6 @@ import imgviz
 import ISAT.icons_rc
 from PyQt5.QtCore import QThread, pyqtSignal
 import numpy as np
-import torch
 import cv2  # 调整图像饱和度
 
 class MainWindow(QtWidgets.QMainWindow, Ui_MainWindow):

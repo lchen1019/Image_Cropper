@@ -1,12 +1,12 @@
 # Image Cropper
 
 **图像剪裁工具**
-(代码基于[isat](https://github.com/yatengLG/ISAT_with_segment_anything)实现)
-![demo](./assets/demo.png)
+代码基于![isat](https://github.com/yatengLG/ISAT_with_segment_anything)实现
+![demo](demo.png)
 
 
 ## Installation
-可以直接使用[isat](https://github.com/yatengLG/ISAT_with_segment_anything)的环境
+
 ```shell
 conda create -n isat_env python=3.8
 conda activate isat_env

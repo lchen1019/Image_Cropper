@@ -5,8 +5,6 @@
 from PyQt5 import QtWidgets
 from ISAT.widgets.mainwindow import MainWindow
 import sys
-import torch
-torch.cuda.is_available()
 
 def main():
     app = QtWidgets.QApplication([''])
